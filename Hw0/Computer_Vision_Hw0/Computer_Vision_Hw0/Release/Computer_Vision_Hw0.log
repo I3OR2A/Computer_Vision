@@ -1,0 +1,13 @@
+﻿已經開始建置於 2016/12/25 下午 09:36:04。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw0\Computer_Vision_Hw0\Computer_Vision_Hw0.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\Opencv\Opencv2411\build\x86\vc11\..\..\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw0\Release\Computer_Vision_Hw0.lib" /NOLOGO /LTCG Release\main.obj
+         Computer_Vision_Hw0.vcxproj -> C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw0\Release\Computer_Vision_Hw0.lib
+     1>專案 "C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw0\Computer_Vision_Hw0\Computer_Vision_Hw0.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.82
