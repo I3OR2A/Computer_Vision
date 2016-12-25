@@ -1,0 +1,18 @@
+﻿已經開始建置於 2016/12/16 下午 07:59:04。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw2\Computer_Vision_Hw2\Computer_Vision_Hw2.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\Opencv\Opencv247\build\x86\vc11\..\..\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Computer_Vision_Hw2.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Computer_Vision_Hw2Dlg.cpp
+         Computer_Vision_Hw2Dlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw2\Release\Computer_Vision_Hw2.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\Opencv\Opencv247\build\x86\vc11\lib opencv_core247.lib opencv_calib3d247.lib opencv_contrib247.lib opencv_features2d247.lib opencv_highgui247.lib opencv_imgproc247.lib opencv_stitching247.lib opencv_nonfree247.lib opencv_flann247.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw2\Release\Computer_Vision_Hw2.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw2\Release\Computer_Vision_Hw2.lib" /MACHINE:X86 /SAFESEH Release\Computer_Vision_Hw2.res
+         Release\Computer_Vision_Hw2.obj
+         Release\Computer_Vision_Hw2Dlg.obj
+         Release\stdafx.obj
+     1>Computer_Vision_Hw2Dlg.obj : error LNK2001: 無法解析的外部符號 "public: __thiscall cv::BackgroundSubtractorMOG::BackgroundSubtractorMOG(int,int,double,double)" (??0BackgroundSubtractorMOG@cv@@QAE@HHNN@Z)
+     1>Computer_Vision_Hw2Dlg.obj : error LNK2001: 無法解析的外部符號 "public: virtual __thiscall cv::BackgroundSubtractorMOG::~BackgroundSubtractorMOG(void)" (??1BackgroundSubtractorMOG@cv@@UAE@XZ)
+     1>C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw2\Release\Computer_Vision_Hw2.exe : fatal error LNK1120: 2 個無法解析的外部符號
+     1>專案 "C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw2\Computer_Vision_Hw2\Computer_Vision_Hw2.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:02.10

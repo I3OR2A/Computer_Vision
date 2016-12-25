@@ -1,0 +1,27 @@
+﻿已經開始建置於 2016/12/21 上午 10:15:27。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw2\Computer_Vision_Hw2\Computer_Vision_Hw2.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\Opencv\Opencv247\build\x86\vc11\..\..\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Computer_Vision_Hw2.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Computer_Vision_Hw2Dlg.cpp
+         Computer_Vision_Hw2Dlg.cpp
+     1>c:\users\rl\documents\visual studio 2012\projects\vs_project\computer_vision\computer_vision_hw2\computer_vision_hw2\computer_vision_hw2dlg.cpp(242): warning C4018: '<' : signed/unsigned 不相符
+     1>c:\users\rl\documents\visual studio 2012\projects\vs_project\computer_vision\computer_vision_hw2\computer_vision_hw2\computer_vision_hw2dlg.cpp(252): warning C4018: '<' : signed/unsigned 不相符
+     1>c:\users\rl\documents\visual studio 2012\projects\vs_project\computer_vision\computer_vision_hw2\computer_vision_hw2\computer_vision_hw2dlg.cpp(319): warning C4018: '<' : signed/unsigned 不相符
+     1>c:\users\rl\documents\visual studio 2012\projects\vs_project\computer_vision\computer_vision_hw2\computer_vision_hw2\computer_vision_hw2dlg.cpp(327): warning C4018: '<' : signed/unsigned 不相符
+     1>c:\users\rl\documents\visual studio 2012\projects\vs_project\computer_vision\computer_vision_hw2\computer_vision_hw2\computer_vision_hw2dlg.cpp(331): warning C4018: '<' : signed/unsigned 不相符
+     1>c:\users\rl\documents\visual studio 2012\projects\vs_project\computer_vision\computer_vision_hw2\computer_vision_hw2\computer_vision_hw2dlg.cpp(339): warning C4018: '<' : signed/unsigned 不相符
+     1>c:\users\rl\documents\visual studio 2012\projects\vs_project\computer_vision\computer_vision_hw2\computer_vision_hw2\computer_vision_hw2dlg.cpp(341): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>c:\users\rl\documents\visual studio 2012\projects\vs_project\computer_vision\computer_vision_hw2\computer_vision_hw2\computer_vision_hw2dlg.cpp(342): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>c:\users\rl\documents\visual studio 2012\projects\vs_project\computer_vision\computer_vision_hw2\computer_vision_hw2\computer_vision_hw2dlg.cpp(343): warning C4244: '引數' : 將 'float' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>c:\users\rl\documents\visual studio 2012\projects\vs_project\computer_vision\computer_vision_hw2\computer_vision_hw2\computer_vision_hw2dlg.cpp(432): warning C4018: '<' : signed/unsigned 不相符
+     1>c:\users\rl\documents\visual studio 2012\projects\vs_project\computer_vision\computer_vision_hw2\computer_vision_hw2\computer_vision_hw2dlg.cpp(516): warning C4018: '<' : signed/unsigned 不相符
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw2\Debug\Computer_Vision_Hw2.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Opencv\Opencv247\build\x86\vc11\lib opencv_core247d.lib opencv_imgproc247d.lib opencv_highgui247d.lib opencv_ml247d.lib opencv_video247d.lib opencv_features2d247d.lib opencv_calib3d247d.lib opencv_objdetect247d.lib opencv_contrib247d.lib opencv_legacy247d.lib opencv_flann247d.lib opencv_nonfree247d.lib opencv_ocl247d.lib opencv_photo247d.lib opencv_stitching247d.lib opencv_superres247d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw2\Debug\Computer_Vision_Hw2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw2\Debug\Computer_Vision_Hw2.lib" /MACHINE:X86 Debug\Computer_Vision_Hw2.res
+         Debug\Computer_Vision_Hw2.obj
+         Debug\Computer_Vision_Hw2Dlg.obj
+         Debug\stdafx.obj
+         Computer_Vision_Hw2.vcxproj -> C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw2\Debug\Computer_Vision_Hw2.exe
+     1>專案 "C:\Users\RL\Documents\Visual Studio 2012\Projects\Vs_Project\Computer_Vision\Computer_Vision_Hw2\Computer_Vision_Hw2\Computer_Vision_Hw2.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:05.36

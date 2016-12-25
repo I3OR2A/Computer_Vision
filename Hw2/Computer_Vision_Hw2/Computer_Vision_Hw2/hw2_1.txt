@@ -1,0 +1,8 @@
+Point1:(118,72)
+Point2:(112,96)
+Point3:(119,170)
+Point4:(136,241)
+Point5:(131,260)
+Point6:(176,269)
+Point7:(193,257)
+Window size:10
